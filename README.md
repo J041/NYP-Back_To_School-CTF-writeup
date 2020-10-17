@@ -7,7 +7,7 @@ CTF Hosted by NYP InfoSec
 
 **Details**
 __Playtime__
-- 17/10/2020 12:00PM-6:00PM
+- 17/10/2020 12:30PM-5:30PM
 
 **Write-up**
 Done by 
