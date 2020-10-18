@@ -116,7 +116,7 @@ o	Step 2: use the payload below in the search field to list all the tables in th
 'UNION SELECT table_schema, table_name, 1 From information_schema.tables#
 ```
 ![](/web/Secret%20Demon/tables.png)
-![](/web/Secret%20Demon/sec_chal_tables.png)
+![](/web/Secret%20Demon/sec_chal_table.png)
 
 
 o	Step 3: use the payload below in the search field to list the columns in security_challenge.oni_xyza table
