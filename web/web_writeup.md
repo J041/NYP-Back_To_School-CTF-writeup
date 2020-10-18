@@ -138,6 +138,20 @@ flag: NYP{T4mAy0_i5_Qu33N}
 
 ## Live App
 ```
-unsolved
+This was solved after the CTF
 ```
 ![](/web/Live%20App/challenge.png)
+
+o Step 1: Use Burp to Intercept a post request
+
+
+o Step 2: add a [] in front of the username and password and send the request to get the flag
+
+```
+username[]=&password[]=&login=Login
+```
+![](/web/Live%20App/flag.png)
+
+```
+flag: NYP{type_juggling!}
+```
